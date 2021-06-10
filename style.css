@@ -104,7 +104,7 @@ header ul li a{
     transition: 0.5s;
 }
 .thumb li:hover{
-    transform: translateY(-20px);
+    transform: translateY(-15px);
 }
 .thumb li img{
     max-width: 30px;
